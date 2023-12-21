@@ -1,0 +1,28 @@
+header {
+  width: 100%;
+  height: 120px;
+  background-color: #f3d943;
+}
+
+.icon {width: 100px;}
+#nav ul {list-style: none;}
+#nav li {
+  display: block;
+  float: left;
+  width: 200px;
+  height: 70px;
+  padding: 10px;
+  /*border: 1px solid silver;*/
+  font-size: 20px;
+}
+#prava {font-size: 15px;}
+
+#nav li:hover {
+  color: blue;
+  cursor: grabbing;
+}
+#nav img {
+  display: block;
+  float: left;
+}
+.about p {font-size: 20px;}
